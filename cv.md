@@ -1,7 +1,7 @@
 # Mikalai
 ## Mikalai(@qaspec)
 ## Passion to learn
-## JS, CSS, HTML
+## JS, CSS, HTML, Git
 ```
 function maps(x){
   return x.map(el=>el*2)
